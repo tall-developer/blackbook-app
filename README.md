@@ -1,2 +1,3 @@
 # blackbook-app
-A mobile app for tracking personal debtors. Best suitable for Loan Sharks (Mashonisa), 
+A simple app to track personal loans and debtors.
+Designed for small lenders, freelancers, and everyday use.
